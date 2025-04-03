@@ -414,10 +414,10 @@ commander@^7.0.0:
   resolved "https://registry.yarnpkg.com/commander/-/commander-7.2.0.tgz#a36cb57d0b501ce108e4d20559a150a391d97ab7"
   integrity sha512-QrWXB+ZQSVPmIWIhtEO9H+gwHaMGYiF5ChvoJ+K9ZGHG/sVsa6yiesAD1GC/x46sET00Xlwo1u49RVVVzvcSkw==
 
-convertapi-js@~1.1:
-  version "1.1.8"
-  resolved "https://registry.yarnpkg.com/convertapi-js/-/convertapi-js-1.1.8.tgz#6b5185f64ac8e38ba6070b7a7e2a584e321bf78a"
-  integrity sha512-Fjj6ktjfFT9qtvk/4EFN2Cv79hVE/zFwXytREJ3oNCFJQFKk+jt5IFc/vdHpkiK3uoAhNaKPw5TV7cYB2vfQdQ==
+convertapi-js@~1.1.9:
+  version "1.1.9"
+  resolved "https://registry.yarnpkg.com/convertapi-js/-/convertapi-js-1.1.9.tgz#501b44e07e640cd748242608d8983b1ad09a496a"
+  integrity sha512-4Z6Zp7qm3j1V+u1EbH8U7d5jnPIAs1LAlzjlwgVB01bBW6bFJoMhHuzFVkhYVE28B+Bq0NGiNEEpB3JGnlOEbA==
 
 core-util-is@~1.0.0:
   version "1.0.3"
