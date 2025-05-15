@@ -70,10 +70,10 @@
     "@jridgewell/resolve-uri" "3.1.0"
     "@jridgewell/sourcemap-codec" "1.4.14"
 
-"@onlyoffice/docspace-plugin-sdk@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@onlyoffice/docspace-plugin-sdk/-/docspace-plugin-sdk-1.0.0.tgz#09277bb6b114e599ab54bd2d669748424031b7e9"
-  integrity sha512-1TSPu/QiLtdRWYqaxVxvR5KxVTciSaV0yyyEBIkyno+DQ9+3LuVHYJ7qVL8+hGz2kzYea8HBuUZvCEkJERPC0g==
+"@onlyoffice/docspace-plugin-sdk@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@onlyoffice/docspace-plugin-sdk/-/docspace-plugin-sdk-1.1.0.tgz#3cb70c0fc8424d4a3b20d19ce71839c1fc6c7d41"
+  integrity sha512-5zC/n0axCxs7r89kovwLvbscsfpP0xGldxYo2OlML1sM0w/av5emhxPZLakqhlT3ec9Q/ZV9oVgS8pRIb7h1ug==
   dependencies:
     inquirer "^9.1.0"
 
